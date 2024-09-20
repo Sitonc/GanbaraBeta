@@ -1,0 +1,673 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup2",
+			"Name": "チーズ　出現"
+		},
+		{
+			"Id": "Param73",
+			"GroupId": "ParamGroup2",
+			"Name": "チーズ 上下運動"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup2",
+			"Name": "がんばらニャイト"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup2",
+			"Name": "なかニャイト"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup2",
+			"Name": "たおさニャイト"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup2",
+			"Name": "逃げニャイト"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup3",
+			"Name": "カラー01"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup3",
+			"Name": "カラー02"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup3",
+			"Name": "カラー03"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup4",
+			"Name": "左手回転"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup4",
+			"Name": "左手反転"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "ParamGroup4",
+			"Name": "左手ｘ"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup4",
+			"Name": "左手ｙ"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "ParamGroup4",
+			"Name": "右手回転"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup4",
+			"Name": "右手反転"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "ParamGroup4",
+			"Name": "右手ｘ"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup4",
+			"Name": "右手ｙ"
+		},
+		{
+			"Id": "Param36",
+			"GroupId": "ParamGroup5",
+			"Name": "兜揺れ"
+		},
+		{
+			"Id": "Param37",
+			"GroupId": "ParamGroup5",
+			"Name": "兜上下"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "ParamGroup5",
+			"Name": "バンダナ結び目揺れ"
+		},
+		{
+			"Id": "Param29",
+			"GroupId": "ParamGroup5",
+			"Name": "バンダナ上下　揺れ"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "ParamGroup5",
+			"Name": "ベルト揺れ"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "ParamGroup5",
+			"Name": "ベルト上下"
+		},
+		{
+			"Id": "Param34",
+			"GroupId": "ParamGroup5",
+			"Name": "剣揺れ"
+		},
+		{
+			"Id": "Param58",
+			"GroupId": "ParamGroup5",
+			"Name": "剣前レイヤー移動"
+		},
+		{
+			"Id": "Param46",
+			"GroupId": "ParamGroup5",
+			"Name": "剣回転"
+		},
+		{
+			"Id": "Param35",
+			"GroupId": "ParamGroup5",
+			"Name": "剣X"
+		},
+		{
+			"Id": "Param47",
+			"GroupId": "ParamGroup5",
+			"Name": "剣Y"
+		},
+		{
+			"Id": "Param75",
+			"GroupId": "ParamGroup5",
+			"Name": "剣 沈み"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup",
+			"Name": "両目開閉　消失"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup",
+			"Name": "両目泣き　出現"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup",
+			"Name": "右目　泣き"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup",
+			"Name": "左目　泣き"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup",
+			"Name": "両目ダメージ　出現"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup",
+			"Name": "右目　ダメージ"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup",
+			"Name": "左目　ダメージ"
+		},
+		{
+			"Id": "Param70",
+			"GroupId": "ParamGroup",
+			"Name": "両目怒り 出現"
+		},
+		{
+			"Id": "Param71",
+			"GroupId": "ParamGroup",
+			"Name": "両目怒り 開き"
+		},
+		{
+			"Id": "Param72",
+			"GroupId": "ParamGroup",
+			"Name": "怒り影 出現"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup6",
+			"Name": "ジャンプ上下移動"
+		},
+		{
+			"Id": "Param48",
+			"GroupId": "ParamGroup6",
+			"Name": "頭上下"
+		},
+		{
+			"Id": "Param49",
+			"GroupId": "ParamGroup6",
+			"Name": "耳"
+		},
+		{
+			"Id": "Param59",
+			"GroupId": "ParamGroup6",
+			"Name": "髭　出現"
+		},
+		{
+			"Id": "Param32",
+			"GroupId": "ParamGroup6",
+			"Name": "鼻上下"
+		},
+		{
+			"Id": "Param33",
+			"GroupId": "ParamGroup6",
+			"Name": "頬揺れ"
+		},
+		{
+			"Id": "Param57",
+			"GroupId": "ParamGroup6",
+			"Name": "胴体上下"
+		},
+		{
+			"Id": "Param38",
+			"GroupId": "ParamGroup6",
+			"Name": "胴体伸縮"
+		},
+		{
+			"Id": "Param39",
+			"GroupId": "ParamGroup6",
+			"Name": "胴体前後運動"
+		},
+		{
+			"Id": "Param30",
+			"GroupId": "ParamGroup6",
+			"Name": "しっぽ回転"
+		},
+		{
+			"Id": "Param31",
+			"GroupId": "ParamGroup6",
+			"Name": "しっぽ歪み"
+		},
+		{
+			"Id": "Param44",
+			"GroupId": "ParamGroup7",
+			"Name": "右膝伸縮"
+		},
+		{
+			"Id": "Param50",
+			"GroupId": "ParamGroup7",
+			"Name": "右膝上下"
+		},
+		{
+			"Id": "Param41",
+			"GroupId": "ParamGroup7",
+			"Name": "右足ｙ"
+		},
+		{
+			"Id": "Param40",
+			"GroupId": "ParamGroup7",
+			"Name": "右足ｘ"
+		},
+		{
+			"Id": "Param52",
+			"GroupId": "ParamGroup7",
+			"Name": "右足ｚ"
+		},
+		{
+			"Id": "Param54",
+			"GroupId": "ParamGroup7",
+			"Name": "右足反転"
+		},
+		{
+			"Id": "Param55",
+			"GroupId": "ParamGroup7",
+			"Name": "右足回転"
+		},
+		{
+			"Id": "Param45",
+			"GroupId": "ParamGroup8",
+			"Name": "左膝伸縮"
+		},
+		{
+			"Id": "Param51",
+			"GroupId": "ParamGroup8",
+			"Name": "左膝上下"
+		},
+		{
+			"Id": "Param43",
+			"GroupId": "ParamGroup8",
+			"Name": "左足ｙ"
+		},
+		{
+			"Id": "Param42",
+			"GroupId": "ParamGroup8",
+			"Name": "左足ｘ"
+		},
+		{
+			"Id": "Param53",
+			"GroupId": "ParamGroup8",
+			"Name": "左足ｚ"
+		},
+		{
+			"Id": "Param56",
+			"GroupId": "ParamGroup8",
+			"Name": "左足回転"
+		},
+		{
+			"Id": "Param74",
+			"GroupId": "ParamGroup9",
+			"Name": "攻撃エフェクト"
+		},
+		{
+			"Id": "Param67",
+			"GroupId": "ParamGroup9",
+			"Name": "汗"
+		},
+		{
+			"Id": "Param69",
+			"GroupId": "ParamGroup9",
+			"Name": "涙 出現"
+		},
+		{
+			"Id": "Param63",
+			"GroupId": "ParamGroup9",
+			"Name": "両足消失"
+		},
+		{
+			"Id": "Param61",
+			"GroupId": "ParamGroup9",
+			"Name": "走り出現"
+		},
+		{
+			"Id": "Param60",
+			"GroupId": "ParamGroup9",
+			"Name": "走り"
+		},
+		{
+			"Id": "Param62",
+			"GroupId": "ParamGroup9",
+			"Name": "走り煙"
+		},
+		{
+			"Id": "Param65",
+			"GroupId": "ParamGroup9",
+			"Name": "涙 流れ"
+		},
+		{
+			"Id": "Param64",
+			"GroupId": "ParamGroup9",
+			"Name": "持ち上げ煙"
+		},
+		{
+			"Id": "Param66",
+			"GroupId": "ParamGroup9",
+			"Name": "持ち上げ星"
+		},
+		{
+			"Id": "Param68",
+			"GroupId": "ParamGroup9",
+			"Name": "ジャンプ煙"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "呼吸"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "モードチェンジ"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "バリエーション"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "手"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "飾り"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "目"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "ニャイト本体"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "右足"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "左足"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "エフェクト"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part100",
+			"Name": "nyaito_01.psd（対応無し）"
+		},
+		{
+			"Id": "Part4",
+			"Name": "右手"
+		},
+		{
+			"Id": "Part5",
+			"Name": "頭"
+		},
+		{
+			"Id": "Part30",
+			"Name": "体"
+		},
+		{
+			"Id": "Part49",
+			"Name": "左手"
+		},
+		{
+			"Id": "Part50",
+			"Name": "剣"
+		},
+		{
+			"Id": "Part22",
+			"Name": "エフェクト"
+		},
+		{
+			"Id": "Part6",
+			"Name": "右頬"
+		},
+		{
+			"Id": "Part7",
+			"Name": "鎧"
+		},
+		{
+			"Id": "Part8",
+			"Name": "右目"
+		},
+		{
+			"Id": "Part13",
+			"Name": "鼻"
+		},
+		{
+			"Id": "Part17",
+			"Name": "左目"
+		},
+		{
+			"Id": "Part27",
+			"Name": "髭"
+		},
+		{
+			"Id": "Part28",
+			"Name": "顔"
+		},
+		{
+			"Id": "Part29",
+			"Name": "左頬"
+		},
+		{
+			"Id": "Part31",
+			"Name": "バンダナ"
+		},
+		{
+			"Id": "Part35",
+			"Name": "右脚"
+		},
+		{
+			"Id": "Part40",
+			"Name": "胴体"
+		},
+		{
+			"Id": "Part41",
+			"Name": "左脚"
+		},
+		{
+			"Id": "Part46",
+			"Name": "尻尾"
+		},
+		{
+			"Id": "Part60",
+			"Name": "汗"
+		},
+		{
+			"Id": "Part61",
+			"Name": "涙"
+		},
+		{
+			"Id": "Part69",
+			"Name": "持ち上げ_煙"
+		},
+		{
+			"Id": "Part73",
+			"Name": "持ち上げ_星"
+		},
+		{
+			"Id": "Part74",
+			"Name": "ジャンプ煙"
+		},
+		{
+			"Id": "Part56",
+			"Name": "逃走"
+		},
+		{
+			"Id": "Part9",
+			"Name": "右目ゲームオーバー"
+		},
+		{
+			"Id": "Part10",
+			"Name": "右目泣き"
+		},
+		{
+			"Id": "Part12",
+			"Name": "右目開け"
+		},
+		{
+			"Id": "Part16",
+			"Name": "鼻_模様01"
+		},
+		{
+			"Id": "Part15",
+			"Name": "鼻_模様02"
+		},
+		{
+			"Id": "Part14",
+			"Name": "鼻_模様03"
+		},
+		{
+			"Id": "Part18",
+			"Name": "左目ゲームオーバー"
+		},
+		{
+			"Id": "Part19",
+			"Name": "左目泣き"
+		},
+		{
+			"Id": "Part21",
+			"Name": "左目開け"
+		},
+		{
+			"Id": "Part32",
+			"Name": "バンダナ正面"
+		},
+		{
+			"Id": "Part33",
+			"Name": "バンダナ上"
+		},
+		{
+			"Id": "Part34",
+			"Name": "バンダナ下"
+		},
+		{
+			"Id": "Part36",
+			"Name": "右足_倒れ"
+		},
+		{
+			"Id": "Part37",
+			"Name": "右脚_倒れ"
+		},
+		{
+			"Id": "Part38",
+			"Name": "右膝"
+		},
+		{
+			"Id": "Part39",
+			"Name": "右足"
+		},
+		{
+			"Id": "Part42",
+			"Name": "左足_倒れ"
+		},
+		{
+			"Id": "Part43",
+			"Name": "左脚_倒れ"
+		},
+		{
+			"Id": "Part44",
+			"Name": "左膝"
+		},
+		{
+			"Id": "Part45",
+			"Name": "左足"
+		},
+		{
+			"Id": "Part47",
+			"Name": "尻尾_倒れ_奥"
+		},
+		{
+			"Id": "Part48",
+			"Name": "尻尾_通常"
+		},
+		{
+			"Id": "Part64",
+			"Name": "涙地面付き_左"
+		},
+		{
+			"Id": "Part65",
+			"Name": "涙_流れ_左"
+		},
+		{
+			"Id": "Part66",
+			"Name": "涙地面付き_右"
+		},
+		{
+			"Id": "Part68",
+			"Name": "涙_流れ_右"
+		},
+		{
+			"Id": "Part11",
+			"Name": "右目涙"
+		},
+		{
+			"Id": "Part20",
+			"Name": "左目涙"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"Param21",
+			"Param19"
+		],
+		[
+			"Param20",
+			"Param18"
+		],
+		[
+			"Param41",
+			"Param40"
+		],
+		[
+			"Param43",
+			"Param42"
+		]
+	]
+}

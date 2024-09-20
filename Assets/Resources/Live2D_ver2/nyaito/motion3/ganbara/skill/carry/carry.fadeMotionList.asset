@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 403ae2dd693bb1d4b924f6b8d206b053, type: 3}
+  m_Name: carry.fadeMotionList
+  m_EditorClassIdentifier: 
+  MotionInstanceIds: 08ccffff2eb2ffff44adffffccacffff64abffffd0a9ffff
+  CubismFadeMotionObjects:
+  - {fileID: 11400000, guid: 9059610495ac62649a35e0db380b52f1, type: 2}
+  - {fileID: 11400000, guid: a1de35ea60b995a4db117ae63e8b56c7, type: 2}
+  - {fileID: 11400000, guid: 20cdf4be966521d4585557b945279985, type: 2}
+  - {fileID: 11400000, guid: 33a0ee8f1906e9440a01d1c415d10950, type: 2}
+  - {fileID: 11400000, guid: 9c597997170c46f418049de973d3af91, type: 2}
+  - {fileID: 11400000, guid: 96ba33c514f1ffe479bd2454c64d51b4, type: 2}

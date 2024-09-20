@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 403ae2dd693bb1d4b924f6b8d206b053, type: 3}
+  m_Name: cheese.fadeMotionList
+  m_EditorClassIdentifier: 
+  MotionInstanceIds: d0d0ffffa4d0ffff5ad0ffff20cfffffc6ceffff6ecdfffffeb3ffffb6b1ffffeea9ffff
+  CubismFadeMotionObjects:
+  - {fileID: 11400000, guid: 16e97561053d7bd419fce1506aa91bba, type: 2}
+  - {fileID: 11400000, guid: 9c2961684bd04e445a4fd212abf9870b, type: 2}
+  - {fileID: 11400000, guid: 57c8c18ff5e91a8499d28f309da79ed4, type: 2}
+  - {fileID: 11400000, guid: 14642838c5c74804c93a161f1139ae10, type: 2}
+  - {fileID: 11400000, guid: 612b1cb635126f64bb33f569d76d4bdb, type: 2}
+  - {fileID: 11400000, guid: c8d006b5696b346408232cd23ca32765, type: 2}
+  - {fileID: 11400000, guid: b938c8d6de0a5e0409b4a801c789cb1f, type: 2}
+  - {fileID: 11400000, guid: ab36a2754dc9101448543075e2070844, type: 2}
+  - {fileID: 11400000, guid: a089e784902460c478b6b6575176e74e, type: 2}

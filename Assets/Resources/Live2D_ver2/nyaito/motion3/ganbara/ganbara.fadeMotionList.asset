@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 403ae2dd693bb1d4b924f6b8d206b053, type: 3}
+  m_Name: ganbara.fadeMotionList
+  m_EditorClassIdentifier: 
+  MotionInstanceIds: 00d3ffff00d0ffff04ceffffacccffff0eb3ffff56aaffff
+  CubismFadeMotionObjects:
+  - {fileID: 11400000, guid: bf30feee4247d034fbf31eb3213943cd, type: 2}
+  - {fileID: 11400000, guid: 4f1057f159a2bea42a7a597b2f13d158, type: 2}
+  - {fileID: 11400000, guid: 6ee6d6801d9ee7a4186bf2daa0783bd7, type: 2}
+  - {fileID: 11400000, guid: 0500870f0b79bfd4099fb38d33507a15, type: 2}
+  - {fileID: 11400000, guid: 5e8044ee55fc2c848994f5ab4be40b7d, type: 2}
+  - {fileID: 11400000, guid: 418aada733a74064d9d49ea94ce9cac4, type: 2}

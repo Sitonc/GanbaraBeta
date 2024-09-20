@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 403ae2dd693bb1d4b924f6b8d206b053, type: 3}
+  m_Name: taosa.fadeMotionList
+  m_EditorClassIdentifier: 
+  MotionInstanceIds: 84d3ffffc2b3ffff68b3ffff4cb2ffff7ab1ffff42afffffcaaeffff80adffff76a9ffff
+  CubismFadeMotionObjects:
+  - {fileID: 11400000, guid: 0133fcb20ae171849b28d3efa4afad97, type: 2}
+  - {fileID: 11400000, guid: 499f1da3cb06a394ab46be4de279ad65, type: 2}
+  - {fileID: 11400000, guid: 364bb96a3d41f4145bd4f313c25e9119, type: 2}
+  - {fileID: 11400000, guid: db992db72354cc74d8fce5c2a834a252, type: 2}
+  - {fileID: 11400000, guid: 355a873e3b8de524d818f7ac02589c92, type: 2}
+  - {fileID: 11400000, guid: de0e3662571fac84092ff71433c1d31c, type: 2}
+  - {fileID: 11400000, guid: 4e9d9d48e33239d45bce93814abcd61d, type: 2}
+  - {fileID: 11400000, guid: 4c8c4b3d7f318484ca2aaa7222fc554e, type: 2}
+  - {fileID: 11400000, guid: 3ca213170f7f455449d605118372b94d, type: 2}

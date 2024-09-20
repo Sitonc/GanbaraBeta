@@ -1,0 +1,337 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Manto",
+			"GroupId": "ParamGroup",
+			"Name": "マントon"
+		},
+		{
+			"Id": "Yoroi",
+			"GroupId": "ParamGroup",
+			"Name": "鎧on"
+		},
+		{
+			"Id": "Bandana",
+			"GroupId": "ParamGroup",
+			"Name": "バンダナon"
+		},
+		{
+			"Id": "Redeye",
+			"GroupId": "ParamGroup2",
+			"Name": "赤目"
+		},
+		{
+			"Id": "damageeye",
+			"GroupId": "ParamGroup2",
+			"Name": "バツ目"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup3",
+			"Name": "顔X"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup3",
+			"Name": "顔Y"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup3",
+			"Name": "顔Z"
+		},
+		{
+			"Id": "Eye_Open",
+			"GroupId": "ParamGroup3",
+			"Name": "目　開閉"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup3",
+			"Name": "鼻Y"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup3",
+			"Name": "鼻頭Y"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup3",
+			"Name": "ひげ揺れ"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup3",
+			"Name": "耳揺れ"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup5",
+			"Name": "鎧X"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "ParamGroup5",
+			"Name": "鎧Y"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "ParamGroup5",
+			"Name": "鎧Z"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "ParamGroup5",
+			"Name": "マントZ"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "ParamGroup5",
+			"Name": "バンダナZ"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup4",
+			"Name": "体X"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup4",
+			"Name": "体Y"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup4",
+			"Name": "右手回転"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup4",
+			"Name": "右手上げ"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup4",
+			"Name": "左手回転"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup4",
+			"Name": "左手上げ"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "ParamGroup4",
+			"Name": "右足X"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "ParamGroup4",
+			"Name": "右足Y"
+		},
+		{
+			"Id": "Param31",
+			"GroupId": "ParamGroup4",
+			"Name": "右足伸縮X"
+		},
+		{
+			"Id": "Param32",
+			"GroupId": "ParamGroup4",
+			"Name": "右足伸縮Y"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup4",
+			"Name": "右足回転"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup4",
+			"Name": "右足先回転"
+		},
+		{
+			"Id": "Param29",
+			"GroupId": "ParamGroup4",
+			"Name": "左足X"
+		},
+		{
+			"Id": "Param30",
+			"GroupId": "ParamGroup4",
+			"Name": "左足Y"
+		},
+		{
+			"Id": "Param33",
+			"GroupId": "ParamGroup4",
+			"Name": "左足伸縮X"
+		},
+		{
+			"Id": "Param34",
+			"GroupId": "ParamGroup4",
+			"Name": "左足伸縮Y"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup4",
+			"Name": "左足回転"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup4",
+			"Name": "左足先回転"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup4",
+			"Name": "左足反転"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup4",
+			"Name": "しっぽゆれ"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup4",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup4",
+			"Name": "体の位置Y"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup4",
+			"Name": "おなか"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "コス差分"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "目差分"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "顔"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "揺れモノ"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "体"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "エフェクト"
+		},
+		{
+			"Id": "Part2",
+			"Name": "飾り_手前"
+		},
+		{
+			"Id": "Part4",
+			"Name": "左腕"
+		},
+		{
+			"Id": "Part5",
+			"Name": "頭"
+		},
+		{
+			"Id": "Part13",
+			"Name": "飾り奥"
+		},
+		{
+			"Id": "Part16",
+			"Name": "体"
+		},
+		{
+			"Id": "Part19",
+			"Name": "右腕"
+		},
+		{
+			"Id": "Part3",
+			"Name": "マント_上"
+		},
+		{
+			"Id": "Part6",
+			"Name": "左目"
+		},
+		{
+			"Id": "Part9",
+			"Name": "鼻"
+		},
+		{
+			"Id": "Part10",
+			"Name": "右目"
+		},
+		{
+			"Id": "Part14",
+			"Name": "バンダナ_奥"
+		},
+		{
+			"Id": "Part15",
+			"Name": "マント_下"
+		},
+		{
+			"Id": "Part17",
+			"Name": "左脚"
+		},
+		{
+			"Id": "Part18",
+			"Name": "右脚"
+		},
+		{
+			"Id": "Part7",
+			"Name": "左目開き"
+		},
+		{
+			"Id": "Part11",
+			"Name": "右目開き"
+		},
+		{
+			"Id": "Part8",
+			"Name": "左瞳"
+		},
+		{
+			"Id": "Part12",
+			"Name": "右瞳"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"Param16",
+			"Param17"
+		],
+		[
+			"Param27",
+			"Param28"
+		],
+		[
+			"Param31",
+			"Param32"
+		],
+		[
+			"Param29",
+			"Param30"
+		],
+		[
+			"Param33",
+			"Param34"
+		]
+	]
+}
